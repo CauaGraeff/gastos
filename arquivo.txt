@@ -3,3 +3,4 @@ Nome	Valor
 Cauã	50.00R$
 Jean	10.90R$
 Paulo	5.00R$
+Nicolas 90.70R$
